@@ -3,15 +3,15 @@
     "modId": "7c1180d1-29dd-4b57-bc4a-bd3526c1dcb8",
     "companyName": "NROMOONCN",
     "displayName": "NRO MOON",
-    "status": "maintenance",
-    "message": "Release đầu tiên đang được chuẩn bị.",
+    "status": "active",
+    "message": "",
     "expiresAt": "2026-08-22T12:16:03.0000000+00:00",
     "graceUntil": "2026-08-23T12:16:03.0000000+00:00",
-    "activeRelease": "",
-    "manifestUrl": "",
-    "manifestSha256": "",
+    "activeRelease": "2026.07.28.0226",
+    "manifestUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/releases/2026.07.28.0226/manifest.json",
+    "manifestSha256": "f2a47fdd24b4ff85d1b1d14cb688f3f00389398fd919cd3cfdde6c752da62600",
     "minimumClientVersion": "",
     "forceReload": false,
-    "revision": 1785206076980,
-    "updatedAt": "2026-07-28T02:34:36.9806992+00:00"
+    "revision": 1785206812456,
+    "updatedAt": "2026-07-28T02:46:52.4560538+00:00"
 }
