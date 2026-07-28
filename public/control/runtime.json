@@ -1,0 +1,17 @@
+{
+    "schemaVersion": 1,
+    "modId": "7c1180d1-29dd-4b57-bc4a-bd3526c1dcb8",
+    "companyName": "NROMOONCN",
+    "displayName": "NRO MOON",
+    "status": "maintenance",
+    "message": "Release đầu tiên đang được chuẩn bị.",
+    "expiresAt": "2026-08-22T12:16:03.0000000+00:00",
+    "graceUntil": "2026-08-23T12:16:03.0000000+00:00",
+    "activeRelease": "",
+    "manifestUrl": "",
+    "manifestSha256": "",
+    "minimumClientVersion": "",
+    "forceReload": false,
+    "revision": 1785206076980,
+    "updatedAt": "2026-07-28T02:34:36.9806992+00:00"
+}
