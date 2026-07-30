@@ -1,0 +1,387 @@
+{
+    "schemaVersion": 1,
+    "modId": "7c1180d1-29dd-4b57-bc4a-bd3526c1dcb8",
+    "companyName": "NROMOONCN",
+    "releaseId": "2026.07.30.0800",
+    "version": "2026.07.30.0800",
+    "createdAt": "2026-07-30T08:20:32.2160961+00:00",
+    "totalSize": 367655840,
+    "files": [
+        {
+            "name": "52fce4dfdec81911779468540a376f4b_monoscripts_154c0057584df9e963a1ece5f83ef2ad.cuongdev",
+            "size": 1696,
+            "sha256": "ad6a62f5228132937949a283dd18036984e8b28f782c6fb702bf8ce23dfa6a36",
+            "unityCrc": 0,
+            "scope": "bootstrap",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/52fce4dfdec81911779468540a376f4b_monoscripts_154c0057584df9e963a1ece5f83ef2ad.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_bootstrap_b01a911048b454846b623f3b2cd88e30_0000_22d2f7a683d01e5ab6763ac30eaa03da.cuongdev",
+            "size": 13867008,
+            "sha256": "1dd4dfce0185c7bc95c04ed78f68ee6c0f7cc8b26f482242e1d2b03eaf2e6cd0",
+            "unityCrc": 0,
+            "scope": "bootstrap",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_bootstrap_b01a911048b454846b623f3b2cd88e30_0000_22d2f7a683d01e5ab6763ac30eaa03da.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_root_danh_sach_cai_trang_0000_87ef1ef8c6ce258cfe549aa38fa1a03e.cuongdev",
+            "size": 5264,
+            "sha256": "e35b3ca88424e91db76d017cdaca675a4f6dd4e2ac5ef1169f5b4ebf71d50a4b",
+            "unityCrc": 0,
+            "scope": "deferred",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_root_danh_sach_cai_trang_0000_87ef1ef8c6ce258cfe549aa38fa1a03e.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_root_mob_0000_c6c15c0d3909e7c213ad72bbdd324d74.cuongdev",
+            "size": 2656,
+            "sha256": "dcf32482d0e7e9750cdff2568509d5342915c200c1e001635f650721da8dbccb",
+            "unityCrc": 0,
+            "scope": "deferred",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_root_mob_0000_c6c15c0d3909e7c213ad72bbdd324d74.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_root_npc_0000_14a115cee1548890ab9ae3ed3071e46b.cuongdev",
+            "size": 2704,
+            "sha256": "ae6c4baff896b1ce194ed66c8e7e38b4c355f9af1f3be27f15bb1c32a564e33b",
+            "unityCrc": 0,
+            "scope": "deferred",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_root_npc_0000_14a115cee1548890ab9ae3ed3071e46b.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_root_spine_item_config_0000_7f2f35556bf7e18649dba0d2e9ff44c7.cuongdev",
+            "size": 8208,
+            "sha256": "f22fa8157e6feba86606ff4287d3e7e29492ebd79c59d5267b8cba597eeeafe6",
+            "unityCrc": 0,
+            "scope": "deferred",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_root_spine_item_config_0000_7f2f35556bf7e18649dba0d2e9ff44c7.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_x4_bag_0000_04abedb035de39e50b063f521fddbedd.cuongdev",
+            "size": 6457808,
+            "sha256": "e25bc80b01ead48afa595dd14b6f29170fbcc4f2a2989daed7ada62cb043bef9",
+            "unityCrc": 0,
+            "scope": "deferred",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_x4_bag_0000_04abedb035de39e50b063f521fddbedd.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_x4_cuong_0000_eaaca7603beb4268cc993e17eee2e82c.cuongdev",
+            "size": 45100080,
+            "sha256": "41c66aa95d34557c546c923ea2153c186b4696cac843f5fff88a6ed13fb9eb68",
+            "unityCrc": 0,
+            "scope": "deferred",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_x4_cuong_0000_eaaca7603beb4268cc993e17eee2e82c.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_x4_effectdata_0000_76f6206630cee564f7fb95aac57c1ca3.cuongdev",
+            "size": 4973936,
+            "sha256": "8958f4ff2f14ed5ed5e1eeff35c4a89ab0347cf91d10efc8a11f0678aa1c9e2c",
+            "unityCrc": 0,
+            "scope": "deferred",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_x4_effectdata_0000_76f6206630cee564f7fb95aac57c1ca3.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_x4_e_0000_ad9649d0a47e4a505c3bd0554d547ec3.cuongdev",
+            "size": 4803840,
+            "sha256": "934b5fd2299435ce9c6cf2d76b44e47a282be3111229d2421cb03bf0f548f6f6",
+            "unityCrc": 0,
+            "scope": "deferred",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_x4_e_0000_ad9649d0a47e4a505c3bd0554d547ec3.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_x4_radar_0000_77e1a0ea285b172e19f869d5d8262672.cuongdev",
+            "size": 263408,
+            "sha256": "a54033d36ec954455b15aed6a2e9f996619be1a3987eaf44827e759a0078c9d8",
+            "unityCrc": 0,
+            "scope": "deferred",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_x4_radar_0000_77e1a0ea285b172e19f869d5d8262672.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_x4_redeye_png_0000_ccc11b45c81e63971b42c0345b1b235a.cuongdev",
+            "size": 8032,
+            "sha256": "8705e9fb2c4480e612546dab5c17aad993dfe81a0747c682efc83d1a378da79b",
+            "unityCrc": 0,
+            "scope": "deferred",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_x4_redeye_png_0000_ccc11b45c81e63971b42c0345b1b235a.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_x4_smallimage_0000_d117ca876af04180c26421e5d3b80962.cuongdev",
+            "size": 22080,
+            "sha256": "3ca0f51cfa0efe405c1895f6b947d0674caa4698a2bff4ed34cebc33ebadf515",
+            "unityCrc": 0,
+            "scope": "deferred",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_x4_smallimage_0000_d117ca876af04180c26421e5d3b80962.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_x4_stickergoku_0000_1346038b841f48dff28a3e3c4b0f45b3.cuongdev",
+            "size": 3476528,
+            "sha256": "ec8d625017b72a37907dac012b3d33c88d602c63ae23c5dc37893f5ac3620cca",
+            "unityCrc": 0,
+            "scope": "deferred",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_x4_stickergoku_0000_1346038b841f48dff28a3e3c4b0f45b3.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_x4_taixiu_0000_b2bc699430b827ed1ccf8083f75d1063.cuongdev",
+            "size": 4744288,
+            "sha256": "5276aa8024c124f3732bc3a0928114d394a1c79ca6f79c329a84900208bb4991",
+            "unityCrc": 0,
+            "scope": "deferred",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_deferred_b01a911048b454846b623f3b2cd88e30_x4_taixiu_0000_b2bc699430b827ed1ccf8083f75d1063.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_avatar_b004_000_e10933314e06161efb636a7c7cecad67.cuongdev",
+            "size": 2310704,
+            "sha256": "68ee29e955cfd1785706f7d4f92ec1b59c73bcdfa474520873a6a36baa4cc564",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_avatar_b004_000_e10933314e06161efb636a7c7cecad67.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_avatar_b004_001_3eb1702e6997a8827b500c56bae64647.cuongdev",
+            "size": 2217936,
+            "sha256": "34269bab408f7b43d3ddca0cd05c5d847d5d8c37606fc492bb283c0632a7c7a9",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_avatar_b004_001_3eb1702e6997a8827b500c56bae64647.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_avatar_b004_002_3240a2babc949a3fef9f5b35a160d9fa.cuongdev",
+            "size": 2239536,
+            "sha256": "6eb990908f4fc4ee93aaccaf45b0e3e4b6cff26fec90c4e8e8b003bf50c35d05",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_avatar_b004_002_3240a2babc949a3fef9f5b35a160d9fa.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_avatar_b004_003_4ab5e2cce80e69a0b816f0f2538f04bb.cuongdev",
+            "size": 2263136,
+            "sha256": "655dd645d62ec141ea9b0ba33fa6ec7b42948159e34fab89a5dfb408d0b37085",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_avatar_b004_003_4ab5e2cce80e69a0b816f0f2538f04bb.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_icon_item_b002_000_5ec3fd0306a5ed9a063092f167a31717.cuongdev",
+            "size": 989040,
+            "sha256": "69491f9c1cb8f3f33a366b40ba2b8eab099f61a96b933aab9782cce0f7df85d9",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_icon_item_b002_000_5ec3fd0306a5ed9a063092f167a31717.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_icon_item_b002_001_a08b2214571d40abdaa8f1a8ec5a9063.cuongdev",
+            "size": 983152,
+            "sha256": "ff966a6f12152d81be153b065f30cecffff539c0b6263f754408a560a769865f",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_icon_item_b002_001_a08b2214571d40abdaa8f1a8ec5a9063.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_000_042ad849dc1bd9318867bfbb400600bb.cuongdev",
+            "size": 7513904,
+            "sha256": "42d46b2e8992dec53c9f016bc3f7f9fa550a5ad0f2f1920ee4abee883ec6687d",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_000_042ad849dc1bd9318867bfbb400600bb.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_001_b6ef10d0dcb6c1bd6b1fed7adeb0e3ae.cuongdev",
+            "size": 6747552,
+            "sha256": "7b047bc5564c4e09c6295014e2d6dd00121aa532577333c9575831017986a753",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_001_b6ef10d0dcb6c1bd6b1fed7adeb0e3ae.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_002_19bca6af3c7f3fb041fac889471e0aa0.cuongdev",
+            "size": 11055568,
+            "sha256": "f30efb30af4d4827b1b1f81ad51fbc0ba8277735e1ee757fd620eda758f78b65",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_002_19bca6af3c7f3fb041fac889471e0aa0.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_003_b74f2ea93b312faf5dace88bed173a17.cuongdev",
+            "size": 10232208,
+            "sha256": "6b01852f515c20e1d124f338d78cc95973f62bf1f1aa5fa440fdb8aea038f0ff",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_003_b74f2ea93b312faf5dace88bed173a17.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_004_b1fadfdff20bffd3d7a49b95e8ef55d8.cuongdev",
+            "size": 9249200,
+            "sha256": "865d792698609449615d390a048264d4a2a9a9f21de0c403d368db8b6dd6805c",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_004_b1fadfdff20bffd3d7a49b95e8ef55d8.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_005_a8e9bd711f6221ac4d2ec199043ac6ad.cuongdev",
+            "size": 6580192,
+            "sha256": "0f625599dd80f8156138e7920100262ae2431595ff6dcd44c41ad1f480baf190",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_005_a8e9bd711f6221ac4d2ec199043ac6ad.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_006_c4324a5ba86e536b33b501e5be42e4ed.cuongdev",
+            "size": 13733456,
+            "sha256": "5fb2b522d45a956a6c01baa2662eba1b59c21fe3bcf1a75a489057d8136170de",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_006_c4324a5ba86e536b33b501e5be42e4ed.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_007_1a795f0fc35158908371ab3a58ea048c.cuongdev",
+            "size": 11058720,
+            "sha256": "27debae9658bf7e68f12b2f965931c7f1964661846af62fb4724cee5402e01b9",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_007_1a795f0fc35158908371ab3a58ea048c.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_008_16db4b59a85d9f7d5105e04d2399d484.cuongdev",
+            "size": 10834800,
+            "sha256": "3c4120f501773b1e7baf75114a88de9e3975087d3b2acfeefcf3c339152a420e",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_008_16db4b59a85d9f7d5105e04d2399d484.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_009_3bf2a927bdab930226f1935b87460719.cuongdev",
+            "size": 10514720,
+            "sha256": "47a15d650dbcb28282e37350ba41ca6b480a31135c40aafd96de2730e2f0cfdb",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_009_3bf2a927bdab930226f1935b87460719.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_010_03127897153819f36185cfa57d6570a0.cuongdev",
+            "size": 10394384,
+            "sha256": "e13fa10fe1b437a8adb38980c3a0b6a5d83b79aa50b397badb4607b082319b56",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_010_03127897153819f36185cfa57d6570a0.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_011_dd136291e51fbd98a6bc305117ac9552.cuongdev",
+            "size": 8938672,
+            "sha256": "2f3a65942101e575f2b477c4bc5647a40ce78462016a7a8fb04eb56399ecb05b",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_011_dd136291e51fbd98a6bc305117ac9552.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_012_585ce3bd894a05ab68efa75fb57ab1be.cuongdev",
+            "size": 11358144,
+            "sha256": "8ee3c2a898b2562a41a09d33b2ade5e2568b6caf85660530d55d54edf43d79dd",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_012_585ce3bd894a05ab68efa75fb57ab1be.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_013_91c52c042bd1050b116fca2ef0281061.cuongdev",
+            "size": 10809408,
+            "sha256": "f26342169e4f76691134fbf965877020fb74ec70fa83e145d985c159846ed964",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_013_91c52c042bd1050b116fca2ef0281061.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_014_9e6976f9baf777c752dee9eb4da58cf2.cuongdev",
+            "size": 16316992,
+            "sha256": "9c148d547d3f11df7c091d34109f39364757f409c7e096f36d9c09cff86e3745",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_014_9e6976f9baf777c752dee9eb4da58cf2.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_015_029bd23ed338d9e00603d3b5ac471b91.cuongdev",
+            "size": 6746416,
+            "sha256": "de90f4f45f84c6f1ac57a096f0996f2ce811cc4240805dd9e4568e757303330a",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_015_029bd23ed338d9e00603d3b5ac471b91.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_016_e9c919300697f1ac209016a59a1125b9.cuongdev",
+            "size": 13646992,
+            "sha256": "cea201b8ddb051856e907734f0f36b6c8679f30dde73680dad209d8418b3e17a",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_016_e9c919300697f1ac209016a59a1125b9.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_017_974a394be0df31aec0f5263f213d81be.cuongdev",
+            "size": 12116000,
+            "sha256": "8cd71faf6bac1407945fa41faae60f4b23954779eca7a5a950b8ce0ffab0b810",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_017_974a394be0df31aec0f5263f213d81be.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_018_4bc64850c3a22cf9141f6df98530358b.cuongdev",
+            "size": 13651408,
+            "sha256": "3618043844d1a13db4f21a89783dd811513c68a924bc28dc390b2ba04b9ef5d0",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_018_4bc64850c3a22cf9141f6df98530358b.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_019_edd8188913130920e2f72c7fea793569.cuongdev",
+            "size": 12587408,
+            "sha256": "6c632891baf7d83a227d883e13fd75ab90441cf7faf1a90f76f067172ba15fdb",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_019_edd8188913130920e2f72c7fea793569.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_020_d1c04a18ec82c52733c436041442cc1a.cuongdev",
+            "size": 8131696,
+            "sha256": "b154ba79d784f55d74e70ed2a0c7534e9041d6fdd0b0b83e7a9e9002bf50df57",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_020_d1c04a18ec82c52733c436041442cc1a.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_021_b991fd708c942479d7441923b6e89bf3.cuongdev",
+            "size": 16303104,
+            "sha256": "cc56d2cefe6d711a50559ec1a0e8012764c52186c88f8c76bbaa723979376206",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_021_b991fd708c942479d7441923b6e89bf3.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_022_cb9d246b6a8921616bd6a2ad822f1069.cuongdev",
+            "size": 11183344,
+            "sha256": "6e8adcf33c83e93db891816f88fbf255789573051d2759296363212892df26ca",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_022_cb9d246b6a8921616bd6a2ad822f1069.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_023_8022cbe3806c71e6abed960f108bf85f.cuongdev",
+            "size": 9649472,
+            "sha256": "db73c624931a2ec9dac131f03cbaea779ac53a6d43b3043bd351d6c09af1afb8",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_023_8022cbe3806c71e6abed960f108bf85f.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_024_54d875ab7e6c71cf7200fb3e84b1a8f3.cuongdev",
+            "size": 7872352,
+            "sha256": "648b4578680e34699c02f90f53b26722f7812ce1d3ffa4af0caa9077fbc932dd",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_024_54d875ab7e6c71cf7200fb3e84b1a8f3.cuongdev"
+        },
+        {
+            "name": "res_assets___webgl_spine_player_b026_025_dda6e76bf978c1928e86da3c1e4c4f1f.cuongdev",
+            "size": 5688688,
+            "sha256": "8ec3bdc6957cadd9574ae969bbd32b82e281906829271418c91681fc1ca7c2a6",
+            "unityCrc": 0,
+            "scope": "spine",
+            "downloadUrl": "https://c1u2o3n4g-alt.github.io/nromooncn/bundles/2026.07.30.0800/res_assets___webgl_spine_player_b026_025_dda6e76bf978c1928e86da3c1e4c4f1f.cuongdev"
+        }
+    ]
+}
